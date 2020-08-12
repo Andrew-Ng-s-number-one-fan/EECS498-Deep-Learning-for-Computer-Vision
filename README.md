@@ -1,6 +1,6 @@
 # EECS 498.007/598.005: Deep Learning for Computer Vision
 
-### Lecture Videos (Fall 2019)
+### Lecture Videos and Slides (Fall 2019)
 
 |#|Content|Slide|
 |:---:|:---:|:---:|
