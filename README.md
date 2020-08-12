@@ -2,9 +2,9 @@
 
 ### Lecture Videos (Fall 2019)
 
-|#|Content|
-|:---:|:---:|
-|Lecture 1|[Introduction to Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&t=1651s)|
+|#|Content|Slide|
+|:---:|:---:|:---:|
+|Lecture 1|[Introduction to Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA&t=1651s)|[Slide](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture01.pdf)|
 |Lecture 2|[](https://www.youtube.com/watch?v=OoUX-nOEjG0&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=2)|
 |Lecture 3|[](https://www.youtube.com/watch?v=h7iBpEHGVNc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=3)|
 |Lecture 4|[](https://www.youtube.com/watch?v=d14TUNcbn1k)|
