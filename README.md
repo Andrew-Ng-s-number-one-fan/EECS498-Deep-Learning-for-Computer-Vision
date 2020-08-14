@@ -7,7 +7,7 @@
 |Lecture 1|[Introduction to Deep Learning for Computer Vision](https://www.youtube.com/watch?v=dJYGatp4SvA)|[Slide 01](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture01.pdf)|
 |Lecture 2|[Image Classification](https://www.youtube.com/watch?v=0nqvO3AM2Vw)|[Slide 02](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture02.pdf)|
 |Lecture 3|[Linear Classifiers](https://www.youtube.com/watch?v=qcSEP17uKKY)|[Slide 03](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture03.pdf)|
-|Lecture 4|[](https://www.youtube.com/watch?v=d14TUNcbn1k)|
+|Lecture 4|[Optimization](https://www.youtube.com/watch?v=YnQJTfbwBM8)|[Slide 04](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture04.pdf)|
 |Lecture 5|[](https://www.youtube.com/watch?v=bNb2fEVKeEo)|
 |Lecture 6|[](https://www.youtube.com/watch?v=wEoyxE0GP2M)|
 |Lecture 7|[](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7)|
