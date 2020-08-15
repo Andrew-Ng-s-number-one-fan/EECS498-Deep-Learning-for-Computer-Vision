@@ -14,7 +14,7 @@
 |Lecture 8|[]()|[Slide 08]()|
 |Lecture 9|[]()|[Slide 09]()|
 |Lecture 10|[]()|[Slide 10]()|
-|Lecture 11|[]|[Slide 11]()|
+|Lecture 11|[]()|[Slide 11]()|
 |Lecture 12||[Slide 12]()|
 |Lecture 13||[Slide 13]()|
 |Lecture 14||[Slide 14]()|
