@@ -8,15 +8,21 @@
 |Lecture 2|[Image Classification](https://www.youtube.com/watch?v=0nqvO3AM2Vw)|[Slide 02](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture02.pdf)|
 |Lecture 3|[Linear Classifiers](https://www.youtube.com/watch?v=qcSEP17uKKY)|[Slide 03](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture03.pdf)|
 |Lecture 4|[Optimization](https://www.youtube.com/watch?v=YnQJTfbwBM8)|[Slide 04](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture04.pdf)|
-|Lecture 5|[](https://www.youtube.com/watch?v=bNb2fEVKeEo)|
-|Lecture 6|[](https://www.youtube.com/watch?v=wEoyxE0GP2M)|
-|Lecture 7|[](https://www.youtube.com/watch?v=_JB0AO7QxSA&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=7)|
-|Lecture 8|[](https://www.youtube.com/watch?v=6SlgtELqOWc&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=8)|
-|Lecture 9|[](https://www.youtube.com/watch?v=DAOcjicFr1Y&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=9)|
-|Lecture 10|[](https://www.youtube.com/watch?v=6niqTuYFZLQ&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv&index=10)|
-|Lecture 11||
-|Lecture 12||
-|Lecture 13||
-|Lecture 14||
-|Lecture 15||
-|Lecture 16||
+|Lecture 5|[Neural Networks](https://www.youtube.com/watch?v=g6InpdhUblE)|[Slide 05](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture05.pdf)|
+|Lecture 6|[]()|[Slide 06]()|
+|Lecture 7|[]()|[Slide 07]()|
+|Lecture 8|[]()|[Slide 08]()|
+|Lecture 9|[]()|[Slide 09]()|
+|Lecture 10|[]()|[Slide 10]()|
+|Lecture 11||[Slide 11]()|
+|Lecture 12||[Slide 12]()|
+|Lecture 13||[Slide 13]()|
+|Lecture 14||[Slide 14]()|
+|Lecture 15||[Slide 15]()|
+|Lecture 16||[Slide 16]()|
+|Lecture 17||[Slide 17]()|
+|Lecture 18||[Slide 18]()|
+|Lecture 19||[Slide 19]()|
+|Lecture 20||[Slide 20]()|
+|Lecture 21||[Slide 21]()|
+|Lecture 2||[Slide 22]()|
