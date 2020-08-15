@@ -9,12 +9,12 @@
 |Lecture 3|[Linear Classifiers](https://www.youtube.com/watch?v=qcSEP17uKKY)|[Slide 03](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture03.pdf)|
 |Lecture 4|[Optimization](https://www.youtube.com/watch?v=YnQJTfbwBM8)|[Slide 04](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture04.pdf)|
 |Lecture 5|[Neural Networks](https://www.youtube.com/watch?v=g6InpdhUblE)|[Slide 05](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture05.pdf)|
-|Lecture 6|[]()|[Slide 06]()|
+|Lecture 6|[Backpropagation](https://www.youtube.com/watch?v=dB-u77Y5a6A)|[Slide 06](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture06.pdf)|
 |Lecture 7|[]()|[Slide 07]()|
 |Lecture 8|[]()|[Slide 08]()|
 |Lecture 9|[]()|[Slide 09]()|
 |Lecture 10|[]()|[Slide 10]()|
-|Lecture 11||[Slide 11]()|
+|Lecture 11|[]|[Slide 11]()|
 |Lecture 12||[Slide 12]()|
 |Lecture 13||[Slide 13]()|
 |Lecture 14||[Slide 14]()|
