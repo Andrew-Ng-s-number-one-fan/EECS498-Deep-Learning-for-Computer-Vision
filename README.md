@@ -11,7 +11,7 @@
 |Lecture 5|[Neural Networks](https://www.youtube.com/watch?v=g6InpdhUblE)|[Slide 05](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture05.pdf)|
 |Lecture 6|[Backpropagation](https://www.youtube.com/watch?v=dB-u77Y5a6A)|[Slide 06](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture06.pdf)|
 |Lecture 7|[Convolutional Networks](https://www.youtube.com/watch?v=ANyxBVxmdZ0)|[Slide 07](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture07.pdf)|
-|Lecture 8|[CNN Architectures]()|[Slide 08]()|
+|Lecture 8|[CNN Architectures](https://www.youtube.com/watch?v=XaZIlVrIO-Q)|[Slide 08](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture08.pdf)|
 |Lecture 9|[]()|[Slide 09]()|
 |Lecture 10|[]()|[Slide 10]()|
 |Lecture 11|[]()|[Slide 11]()|
