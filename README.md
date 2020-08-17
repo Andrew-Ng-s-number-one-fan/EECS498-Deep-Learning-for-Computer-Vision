@@ -25,4 +25,4 @@
 |Lecture 19||[Slide 19]()|
 |Lecture 20||[Slide 20]()|
 |Lecture 21||[Slide 21]()|
-|Lecture 2||[Slide 22]()|
+|Lecture 22||[Slide 22]()|
