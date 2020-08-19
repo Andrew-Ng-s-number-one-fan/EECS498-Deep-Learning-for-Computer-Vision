@@ -13,8 +13,8 @@
 |Lecture 7|[Convolutional Networks](https://www.youtube.com/watch?v=ANyxBVxmdZ0)|[Slide 07](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture07.pdf)|
 |Lecture 8|[CNN Architectures](https://www.youtube.com/watch?v=XaZIlVrIO-Q)|[Slide 08](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture08.pdf)|
 |Lecture 9|[Hardware and Software](https://www.youtube.com/watch?v=oXPX8GIOiU4)|[Slide 09](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture09.pdf)|
-|Lecture 10|[]()|[Slide 10]()|
-|Lecture 11|[]()|[Slide 11]()|
+|Lecture 10|[Training Neural Networks I](https://www.youtube.com/watch?v=lGbQlr1Ts7w)|[Slide 10](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture10.pdf)|
+|Lecture 11|[Training Neural Networks II](https://www.youtube.com/watch?v=WUazOtlti0g)|[Slide 11](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture11.pdf)|
 |Lecture 12||[Slide 12]()|
 |Lecture 13||[Slide 13]()|
 |Lecture 14||[Slide 14]()|
