@@ -4,7 +4,7 @@
 - Instructor: [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
 <p align="center">
-  <img src="https://github.com/Andrew-Ng-s-number-one-fan/EECS-498.007-598.005-Deep-Learning-for-Computer-Vision/blob/master/Slides/eecs498.png" height="87px" width="800px">  
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/EECS-498.007-598.005-Deep-Learning-for-Computer-Vision/blob/master/Slides/eecs498.png" height="76px" width="700px">  
 </p>
 
 ## Lecture Videos and Slides (Fall 2019)
