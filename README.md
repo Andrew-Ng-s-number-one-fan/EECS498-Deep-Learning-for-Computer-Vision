@@ -3,7 +3,9 @@
 - Course Website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/
 - Instructor: [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
-![image](https://github.com/Andrew-Ng-s-number-one-fan/EECS-498.007-598.005-Deep-Learning-for-Computer-Vision/blob/master/Slides/eecs498.png)
+<p align="center">
+  <img src="https://github.com/Andrew-Ng-s-number-one-fan/EECS-498.007-598.005-Deep-Learning-for-Computer-Vision/blob/master/Slides/eecs498.png" height="110px" width="1000px">  
+</p>
 
 ## Lecture Videos and Slides (Fall 2019)
 
