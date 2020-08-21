@@ -1,8 +1,9 @@
 # EECS 498.007/598.005: Deep Learning for Computer Vision
 
-### Course Website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/
-### Instructor: [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
+#### Course Website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+#### Instructor: [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
 
+<br>
 ## Lecture Videos and Slides (Fall 2019)
 
 |#|Content|Slide|
