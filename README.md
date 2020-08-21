@@ -1,6 +1,9 @@
 # EECS 498.007/598.005: Deep Learning for Computer Vision
 
-### Lecture Videos and Slides (Fall 2019)
+### Course Website: https://web.eecs.umich.edu/~justincj/teaching/eecs498/
+### Instructor: [Justin Johnson](https://web.eecs.umich.edu/~justincj/)
+
+## Lecture Videos and Slides (Fall 2019)
 
 |#|Content|Slide|
 |:---:|:---:|:---:|
@@ -15,8 +18,8 @@
 |Lecture 9|[Hardware and Software](https://www.youtube.com/watch?v=oXPX8GIOiU4)|[Slide 09](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture09.pdf)|
 |Lecture 10|[Training Neural Networks I](https://www.youtube.com/watch?v=lGbQlr1Ts7w)|[Slide 10](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture10.pdf)|
 |Lecture 11|[Training Neural Networks II](https://www.youtube.com/watch?v=WUazOtlti0g)|[Slide 11](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture11.pdf)|
-|Lecture 12||[Slide 12]()|
-|Lecture 13||[Slide 13]()|
+|Lecture 12|[Recurrent Networks](https://www.youtube.com/watch?v=dUzLD91Sj-o)|[Slide 12](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture12.pdf)|
+|Lecture 13|[Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)|[Slide 13](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture13.pdf)|
 |Lecture 14||[Slide 14]()|
 |Lecture 15||[Slide 15]()|
 |Lecture 16||[Slide 16]()|
