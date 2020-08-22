@@ -20,7 +20,7 @@
 |Lecture 11|[Training Neural Networks II](https://www.youtube.com/watch?v=WUazOtlti0g)|[Slide 11](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture11.pdf)|
 |Lecture 12|[Recurrent Networks](https://www.youtube.com/watch?v=dUzLD91Sj-o)|[Slide 12](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture12.pdf)|
 |Lecture 13|[Attention](https://www.youtube.com/watch?v=YAgjfMR9R_M)|[Slide 13](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture13.pdf)|
-|Lecture 14||[Slide 14]()|
+|Lecture 14|[Visualizing and Understanding](https://www.youtube.com/watch?v=G1hGwHVykDU)|[Slide 14](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture14.pdf)|
 |Lecture 15||[Slide 15]()|
 |Lecture 16||[Slide 16]()|
 |Lecture 17||[Slide 17]()|
