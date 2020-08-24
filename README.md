@@ -23,7 +23,7 @@
 |Lecture 14|[Visualizing and Understanding CNNs](https://www.youtube.com/watch?v=G1hGwHVykDU)|[Slide 14](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture14.pdf)|
 |Lecture 15|[Object Detection](https://www.youtube.com/watch?v=TB-fdISzpHQ)|[Slide 15](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture15.pdf)|
 |Lecture 16|[Detection and Segmentation](https://www.youtube.com/watch?v=9AyMR4IhSWQ)|[Slide 16](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture16.pdf)|
-|Lecture 17||[Slide 17]()|
+|Lecture 17|[3D Vision](https://www.youtube.com/watch?v=S1_nCdLUQQ8)|[Slide 17](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture17.pdf)|
 |Lecture 18||[Slide 18]()|
 |Lecture 19||[Slide 19]()|
 |Lecture 20||[Slide 20]()|
