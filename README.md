@@ -24,7 +24,7 @@
 |Lecture 15|[Object Detection](https://www.youtube.com/watch?v=TB-fdISzpHQ)|[Slide 15](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture15.pdf)|
 |Lecture 16|[Detection and Segmentation](https://www.youtube.com/watch?v=9AyMR4IhSWQ)|[Slide 16](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture16.pdf)|
 |Lecture 17|[3D Vision](https://www.youtube.com/watch?v=S1_nCdLUQQ8)|[Slide 17](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture17.pdf)|
-|Lecture 18||[Slide 18]()|
+|Lecture 18|[Videos](https://www.youtube.com/watch?v=A9D6NXBJdwU)|[Slide 18](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture18.pdf)|
 |Lecture 19||[Slide 19]()|
 |Lecture 20||[Slide 20]()|
 |Lecture 21||[Slide 21]()|
