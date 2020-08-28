@@ -26,6 +26,6 @@
 |Lecture 17|[3D Vision](https://www.youtube.com/watch?v=S1_nCdLUQQ8)|[Slide 17](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture17.pdf)|
 |Lecture 18|[Videos](https://www.youtube.com/watch?v=A9D6NXBJdwU)|[Slide 18](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture18.pdf)|
 |Lecture 19|[Generative Models I](https://www.youtube.com/watch?v=Q3HU2vEhD5Y)|[Slide 19](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture19.pdf)|
-|Lecture 20|[Generative Models II]()|[Slide 20]()|
+|Lecture 20|[Generative Models II](https://www.youtube.com/watch?v=igP03FXZqgo)|[Slide 20](https://web.eecs.umich.edu/~justincj/slides/eecs498/498_FA2019_lecture20.pdf)|
 |Lecture 21|[Reinforcement Learning]()|[Slide 21]()|
 |Lecture 22|[Conclusion]()|[Slide 22]()|
